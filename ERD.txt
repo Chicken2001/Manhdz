@@ -1,0 +1,5 @@
+Mức 0:Chỉ có tên thực thể và mối quan hệ
+Mức 1:Có thêm khóa chính khóa ngoại
+Mức 2:Có thêm các thuộc tính
+
+-Thực thể yếu:phát sinh khi có mối quan hệ nhiều nhiều xảy ra và tách ra thành các mối quan hệ 1 nhiều(có 2 khung bên ngoài tên thực thể)
